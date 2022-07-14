@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T01:56:56.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="UsZ-OTC5ZeSNTnddZIBJ" version="20.0.4" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-07-14T01:59:38.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="A_yLPG_Gq2WANVUH4QQJ" version="20.0.4" type="github" pages="14">
   <diagram id="RLdS8YX9c18iTgt1UPvE" name="Page-1">
     <mxGraphModel dx="703" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -465,28 +465,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3txpcf5-TLEpJ9JUnBDW-21" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;entryX=0.17;entryY=1.278;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#1A1A1A;fontColor=#CC0000;fontSize=22;endFill=1;" edge="1" parent="3txpcf5-TLEpJ9JUnBDW-1" target="3txpcf5-TLEpJ9JUnBDW-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="420" as="sourcePoint" />
-            <mxPoint x="456.58000000000015" y="492.23" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3txpcf5-TLEpJ9JUnBDW-22" value="Init" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#1A1A1A;" vertex="1" connectable="0" parent="3txpcf5-TLEpJ9JUnBDW-21">
-          <mxGeometry x="-0.4441" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3txpcf5-TLEpJ9JUnBDW-23" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#1A1A1A;exitX=0;exitY=1;exitDx=0;exitDy=0;fontColor=#CC0000;endFill=1;" edge="1" parent="3txpcf5-TLEpJ9JUnBDW-1" source="3txpcf5-TLEpJ9JUnBDW-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="430" as="sourcePoint" />
-            <mxPoint x="430" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3txpcf5-TLEpJ9JUnBDW-24" value="Init" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#1A1A1A;" vertex="1" connectable="0" parent="3txpcf5-TLEpJ9JUnBDW-23">
-          <mxGeometry x="-0.4562" y="2" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3txpcf5-TLEpJ9JUnBDW-25" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;entryX=0.469;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#1A1A1A;entryPerimeter=0;endFill=1;fontSize=20;" edge="1" parent="3txpcf5-TLEpJ9JUnBDW-1" target="3txpcf5-TLEpJ9JUnBDW-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="420" as="sourcePoint" />
@@ -574,6 +552,12 @@
         </mxCell>
         <mxCell id="B2u0oID4_QwWscTmaGNM-2" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#CCCCCC;shape=mxgraph.gcp2.cloud_server;fontSize=15;" vertex="1" parent="3txpcf5-TLEpJ9JUnBDW-1">
           <mxGeometry x="180" y="395.3" width="69" height="61.41" as="geometry" />
+        </mxCell>
+        <mxCell id="-txzalOBoZhoEf_BCrbI-0" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontColor=#1A1A1A;strokeWidth=1;" vertex="1" parent="3txpcf5-TLEpJ9JUnBDW-1">
+          <mxGeometry x="310" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-txzalOBoZhoEf_BCrbI-1" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontColor=#1A1A1A;strokeWidth=1;" vertex="1" parent="3txpcf5-TLEpJ9JUnBDW-1">
+          <mxGeometry x="310" y="495" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2459,7 +2443,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="lVnqKrsG0PtWrqRpMwEc" name="lockstep">
+  <diagram id="lVnqKrsG0PtWrqRpMwEc" name="flow lockstep">
     <mxGraphModel dx="740" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2565,7 +2549,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="lockstep 的副本" id="uOp55vYbIbO2cA0Dkw-t">
+  <diagram name="flow state" id="uOp55vYbIbO2cA0Dkw-t">
     <mxGraphModel dx="703" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YSA4b2t1o3-00P7kSOJ3-0" />
