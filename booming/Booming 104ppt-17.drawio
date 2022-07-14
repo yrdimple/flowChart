@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T01:55:01.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="jZNchHWfD4N7Q3oF0Dr9" version="20.0.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-14T01:56:56.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="UsZ-OTC5ZeSNTnddZIBJ" version="20.0.4" type="github" pages="14">
   <diagram id="RLdS8YX9c18iTgt1UPvE" name="Page-1">
     <mxGraphModel dx="703" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4XBWyVki2Z2U1OvIDLxS" name="Deterministic LockStep">
+  <diagram id="4XBWyVki2Z2U1OvIDLxS" name="Deterministic LockStep 1.0">
     <mxGraphModel dx="1278" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -373,7 +373,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Deterministic LockStep 的副本" id="dP7f6VRxIgw0Y40h6yEC">
+  <diagram name="Deterministic LockStep 2.0" id="dP7f6VRxIgw0Y40h6yEC">
     <mxGraphModel dx="1278" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3txpcf5-TLEpJ9JUnBDW-0" />
@@ -578,7 +578,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="snapshot" id="xuIO9KrWGAiwLgJ2odEt">
+  <diagram name="snapshot 1.0" id="xuIO9KrWGAiwLgJ2odEt">
     <mxGraphModel dx="1172" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HzOeBpeu0E54tCGgmJ8--0" />
@@ -1046,7 +1046,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="snapshot 增宽" id="9PRt1YOsALu2sEQsg5v0">
+  <diagram name="snapshot 2.0" id="9PRt1YOsALu2sEQsg5v0">
     <mxGraphModel dx="1172" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rpMOBdlL5Y3MkNmOqXQO-0" />
@@ -1275,7 +1275,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="snapshot2 增宽" id="QGXxk_g8iTfcuVj-2sPd">
+  <diagram name="snapshot2 2.0" id="QGXxk_g8iTfcuVj-2sPd">
     <mxGraphModel dx="1406" dy="1388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sX65AFGxzcjQmptuEK-j-0" />
@@ -1508,8 +1508,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="c52RNDXDtqQ92joEjKTU" name="Bucket LockStep">
-    <mxGraphModel dx="813" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="c52RNDXDtqQ92joEjKTU" name="Bucket LockStep 1.0">
+    <mxGraphModel dx="703" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1733,7 +1733,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Bucket LockStep 的副本" id="oeCAzOBWx85MmCNjtJoc">
+  <diagram name="Bucket LockStep 2.0" id="oeCAzOBWx85MmCNjtJoc">
     <mxGraphModel dx="1278" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="AylQ1J5O-kWF35DXBt1g-0" />
@@ -1958,8 +1958,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="replay2" id="SgoxvnHDFu1V_wmbVOcr">
-    <mxGraphModel dx="813" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+  <diagram name="replay 2.0" id="SgoxvnHDFu1V_wmbVOcr">
+    <mxGraphModel dx="703" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0ZUX6fjlEEz1VGqXxxmo-0" />
         <mxCell id="0ZUX6fjlEEz1VGqXxxmo-1" parent="0ZUX6fjlEEz1VGqXxxmo-0" />
@@ -2260,8 +2260,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="replay" id="fmx8cWtmX3xe7rB5MG4E">
-    <mxGraphModel dx="813" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+  <diagram name="replay 1.0" id="fmx8cWtmX3xe7rB5MG4E">
+    <mxGraphModel dx="703" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="YRmyoiuMyURN8nzC5SnM-0" />
         <mxCell id="YRmyoiuMyURN8nzC5SnM-1" parent="YRmyoiuMyURN8nzC5SnM-0" />
@@ -2455,23 +2455,6 @@
         </mxCell>
         <mxCell id="onVsSS3tsRW5n2LOs7kM-0" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=eventInt;symbol=error;fillColor=#f8cecc;strokeColor=#b85450;" parent="YRmyoiuMyURN8nzC5SnM-1" vertex="1">
           <mxGeometry x="970" y="320" width="50" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="mIrPKHilKM3JoHbFTEYe" name="第 4 页">
-    <mxGraphModel dx="813" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="yfliBrstyn8GRi5lQ1x6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yfliBrstyn8GRi5lQ1x6-1" target="yfliBrstyn8GRi5lQ1x6-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yfliBrstyn8GRi5lQ1x6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yfliBrstyn8GRi5lQ1x6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
